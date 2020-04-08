@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-Luz-Vare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/hello-js-action-Luz-Vare.git"
+  },
+  "keywords": [],
+  "author": "Luciana Varela Díaz <alu0101106175@ull.edu.es> (https://github.com/Luz-Vare)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-Luz-Vare/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-Luz-Vare#readme",
+  "devDependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
